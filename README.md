@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/975908a1-dd85-40ce-9f54-2761891eb705" /><div align="center">
+<img width="1366" height="768" alt="image" src="" /><div align="center">
 
 # 👨‍💻 Altmash tailwindcss— Portfolio
 
@@ -146,10 +146,7 @@ Contributions, issues, and feature requests are welcome!
 **Altmash Khan** — Full Stack Developer
 
 - 🐙 GitHub: [@altmashkhan-stack](https://github.com/altmashkhan-stack)
-- 💼 LinkedIn: *(www.linkedin.com/in/
-altmash-khan-38a92a443
-Vanity URL name
-)*
+- 💼 LinkedIn: *(https://www.linkedin.com/in/altmash-khan-38a92a443/?isSelfProfile=true)*
 - 🐦 Instagram: *(https://www.instagram.com/khn_altmashh/)*
 - 📧 Email: *(altmashkhan912097@gmail.com)*
 
